@@ -1,0 +1,25 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <!--Global Padding-->
+    <dimen name="vertical_padding">12dp</dimen>
+    <dimen name="horizontal_padding">12dp</dimen>
+    <dimen name="card_padding">6dp</dimen>
+    <dimen name="card_radius">5sp</dimen>
+
+    <!--Global Text Sizes-->
+    <dimen name="header_text_size">22sp</dimen>
+    <dimen name="sub_header_1_text_size">20sp</dimen>
+    <dimen name="sub_header_2_text_size">18sp</dimen>
+    <dimen name="form_field_text_size">16sp</dimen>
+    <dimen name="text_size">15sp</dimen>
+    <dimen name="text_sub_size">14sp</dimen>
+
+
+    <!--UserData-->
+    <dimen name="list_left_margin">12dp</dimen>
+    <dimen name="list_top_margin">24dp</dimen>
+    <dimen name="list_item_vertical_margin">24dp</dimen>
+    <dimen name="list_item_horizontal_margin">8dp</dimen>
+
+</resources>
